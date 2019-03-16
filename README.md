@@ -1,2 +1,2 @@
 # Linear-regression
-Using linear regression algorithm to predict label
+Using linear regression algorithm on Ecommerce data
